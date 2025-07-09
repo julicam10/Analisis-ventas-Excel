@@ -63,11 +63,9 @@ Analizar 1.000 transacciones para identificar tendencias por sucursal, método d
 
 ## 🧹 Limpieza realizada:
 - Formato de fecha uniforme (DD-MM-YYYY)
-- Conversión de hora a formato 24h y categorización por franja horaria
-- Normalización de texto en columnas categóricas (Branch, Payment, etc.)
-- Eliminación de duplicados en Invoice ID
-- Revisión de tipos de datos y valores vacíos
-- Eliminación de columnas innecesarias
+- Normalización de texto
+- Creación de identificador únicos para las facturas y clientes
+- Creación de columnas para análisis
 
 ## 🧪 Lecciones aprendidas
-Como reflexión personal aprendí que se debe ser cuidado con el formato de las fechas, ya que aparentemente dos fechas pueden tener el mismo formato pero no por eso estan bien gestionadas. 
+Aprendí que es posible el análisis de datos por medio de excel, por medio de la creación de gráficos dinámicos e interactivos. Adicionalmente, reforce mi opinión de que las funciones de excel nos permiten hacer casi cualquier cosa para la limpieza de los datos.
