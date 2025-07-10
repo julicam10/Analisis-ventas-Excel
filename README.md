@@ -1,7 +1,7 @@
-# 📊 Análisis de ventas en Excel – Supermercado (2019)
+# 📊 Análisis de ventas en Excel – Supermercado (2014)
 
 ## 🎯 Objetivo
-Analizar 1.000 transacciones para identificar tendencias por sucursal, método de pago y día de la semana.
+Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relevantes con la venta de productos y sus clientes.
 
 ## 🔖 Dataset
 - **Fuente:** Curso: Experto en Análisis y Visualización de Datos - Udemy

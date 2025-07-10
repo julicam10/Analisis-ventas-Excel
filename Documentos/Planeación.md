@@ -1,67 +1,86 @@
 # 📝 Planeación del Proyecto – [Análisis de ventas de un supermercado]
 
 ## 📅 Fecha de inicio
-23 de junio de 2024
+2 de julio de 2024
 
 ## 🎯 Objetivo general
-Analizar las ventas realizadas en tres sucursales de supermercado en Myanmar durante el primer trimestre de 2019, con el fin de identificar los productos más vendidos, los patrones de compra por tipo de cliente y los métodos de pago más utilizados.
+Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relevantes con la venta de productos y sus clientes.
 
 ## ❓ Preguntas clave o hipótesis
 
 **Preguntas que guían el análisis:**
-- ¿Cúal de las sucursales vendió más durante el 2019?
-- ¿Cúal es el producto más vendido en cada una de las sucrusales?
-- ¿Qué genero compra más en cada una de las sucursales?
-- ¿Qué método de pago es más utilizado en cada una de las sucursales?
-- ¿Cúal es el ticket promedio en cada una de las sucursales?
-- ¿Cúal es el ticket promedio en general?
+- ¿Cuánto vende la cadena de supermercado?
+- ¿Cuál es el promedio de ventas?
+- ¿Cuál es el volumen de compras?
+- ¿Cuánto tiempo tarda una entrega?
+- ¿Qué día de la semana se vende más?
+- ¿Cuál es el método de pago más utilizado?
+- ¿Cuál es el segmento que más vende?
+- ¿Cuál es la categoría que más vende?
+- ¿Cuál es el mes del año con más ventas?
+- ¿Qué región del mundo genera más ingresos para la compañía?
+- ¿Cuál es la cantidad de clientes únicos?
+- ¿Qué país es el que más vende?
+
 
 **Hipótesis:**
-- La sucursal de Yangon fue la que registró más ventas durante el primer trimestre de 2019.
-- El producto más vendido varía entre sucursales según el perfil de cliente.
-- Las mujeres compran más que los hombres en las tres sucursales.
-- El método de pago más utilizado es la tarjeta de crédito.
-- La sucursal con el mayor ticket promedio es la de Naypyitaw.
-- El ticket promedio general supera los 300 MMK por venta.
+- Las ventas tienden a aumentar en los últimos meses del año debido a eventos comerciales como Black Friday y Navidad.
+- Los clientes prefieren métodos de envío económicos, incluso si tardan más tiempo.
+- El segmento “Consumo” tiene mayor participación en las ventas debido a su naturaleza masiva.
+- Las ventas se distribuyen equitativamente entre los días de la semana.
+- Las ventas están concentradas en pocas categorías clave de productos.
+- No existe una diferencia significativa entre regiones en términos de ingresos generados.
 
 ## 📊 KPIs o métricas a calcular
-- Ventas totales por sucursal: Monto total vendido en cada ciudad.
-- Producto más vendido por sucursal: Producto con mayor número de unidades vendidas en cada sucursal.
-- Producto menos vendido por sucursal: Producto con menor número de unidades vendidas en cada sucursal.
-- Total de ventas por género: Monto total y cantidad de compras realizadas por hombres y mujeres.
-- Producto más comprado por género: Producto con más unidades vendidas por cada género.
-- Distribución de métodos de pago: Porcentaje de uso de cada método (tarjeta, efectivo, e-wallet) por sucursal.
-- Ticket promedio por sucursal: Promedio del valor de cada compra individual en cada sucursal.
-- Ticket promedio general: Promedio del valor de todas las ventas sin segmentar por sucursal.
-- Cantidad de transacciones por día de la semana: Para identificar patrones de compras.
-- Ventas totales por día: Para visualizar el comportamiento diario de las ventas.
+1. Rendimiento de ventas
+- Ventas Totales
+- Promedio de venta por orden
+- Ventas por día de la semana
+- Ventas por mes
+- Volumen de ventas mensual
+2. Clientes
+- Clientes únicos
+- Ticket promedio por cliente
+- Top 10 clientes por valor de compra
+- Participación de clientes frecuentes vs. nuevos
+3. Logística y cumplimiento
+- Tiempo promedio de entrega
+- Porcentaje de envíos por tipo de método
+- Relación entre método de envío y ticket promedio
+4. Segmentos y productos
+- Participación por segmento
+- Ventas por categoría
+- Utilidad por categoría o segmento
+5. Región y país
+- Ingresos por región
+- Utilidad por región
+- Ventas por país
 
-## 📍 Dataset
-- **Nombre**: Supermarket sales dataset
-- **Fuente**: Github
-- **Descripción**: Base de datos de ventas de un supermercado para practicas de KPI's y visualización de datos.
-- **Enlace**:  https://gist.github.com/sdukshis/7c2bb5e650ac567eefb7c939c4c4c8ff#file-sales-csv
+## 📍 
+- **Fuente:** Curso: Experto en Análisis y Visualización de Datos - Udemy
+- **Archivo:** `Ventas_Supermercado.xlsx`
+- **Descripción**: Base de datos de ventas de una cadena de supermercado durante el 2011 a 2014.
 
 ## 🧭 Flujo de trabajo planeado
 1. Revisión y exploración de datos
 2. Limpieza y transformación
-3. Cálculo de KPIs
-4. Visualización
-5. Conclusiones
+3. Cálculo de KPIs por medio de tablas dinámicas en Excel
+4. Visualización por medio de gráficos dinámicos en Excel
+5. Conclusiones (En el documento README.md de este repositorio)
 
 ## ⚠️ Posibles retos o consideraciones
 - Falta de experiencia en la limpieza de datos
-- Datos incompletos, valores nulos o datos ausentes atípicos
 - Diseño de los trableros de visualización
 
 ## ✅ Entregables esperados
 - Excel con análisis
-- Capturas de visualizaciones
+- Tablas dinámicas con los KPIs
+- Dashboard con gráficos dinámicos y segmentadores
 - README.md completo
 
 ## 🧹 Limpieza esperada:
 - Conversión de fechas y horas al formato correcto
+- Unificación de campos para la creación de datos
 - Normalización de texto en variables categóricas
 - Eliminación de columnas sin valor analítico
-- Validación de duplicados en Invoice ID
 - Revisión y corrección de datos nulos o inconsistentes
