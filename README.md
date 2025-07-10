@@ -1,11 +1,11 @@
 # 📊 Análisis de ventas en Excel – Supermercado (2014)
 
 ## 🎯 Objetivo
-Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relevantes con la venta de productos y sus clientes.
+Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relacionados con la venta de productos, ingresos, clientes y sucursales. El análisis será representado por medio de tablas dinámicas y gráficos dinámicos en Excel (creación de dashboard interactivo).
 
 ## 🔖 Dataset
 - **Fuente:** Curso: Experto en Análisis y Visualización de Datos - Udemy
-- **Archivo:** `Ventas_Supermercado.xlsx`
+- **Archivo:** `Data/Ventas_Supermercado.xlsx`
 
 ## 🛠️ Herramientas
 - Microsoft Excel (tablas dinámicas, gráficos dinámicos y segmentadores)
@@ -25,7 +25,7 @@ Analizar las ventas realizadas por un supermercado con presencia global durante 
 11. Ventas por cada segmento 
 
 ## 🖼️ Visualizaciones
-<img src="Entregables/1_Dashboard_dinamico.png" width="600" alt="Dashboard dinámico">
+<img src="Entregables/1_Dashboard_dinamico.png" width="1200" alt="Dashboard dinámico">
 
 ## 🧠 Hallazgos
 - Las ventas totales fueron de **$1.604.231**

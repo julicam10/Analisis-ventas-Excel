@@ -4,7 +4,7 @@
 2 de julio de 2024
 
 ## 🎯 Objetivo general
-Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relevantes con la venta de productos y sus clientes.
+Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relacionados con la venta de productos, ingresos, clientes y sucursales. El análisis será representado por medio de tablas dinámicas y gráficos dinámicos en Excel.
 
 ## ❓ Preguntas clave o hipótesis
 
@@ -56,7 +56,7 @@ Analizar las ventas realizadas por un supermercado con presencia global durante 
 - Utilidad por región
 - Ventas por país
 
-## 📍 
+## 📍 Dataset
 - **Fuente:** Curso: Experto en Análisis y Visualización de Datos - Udemy
 - **Archivo:** `Ventas_Supermercado.xlsx`
 - **Descripción**: Base de datos de ventas de una cadena de supermercado durante el 2011 a 2014.

@@ -1,12 +1,9 @@
 # 📊 Resumen de Fundamentos del Proyecto de Análisis de Datos
 
-## 1. 🎯 Objetivo del proyecto
+## 🎯 Objetivo del proyecto
+Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relacionados con la venta de productos, ingresos, clientes y sucursales. El análisis será representado por medio de tablas dinámicas y gráficos dinámicos en Excel.
 
-Analizar las ventas realizadas por un supermercado con presencia global durante los años 2011 a 2014, con el fin de identificar los KPI's relevantes con la venta de productos y sus clientes.
-
-
-## 2. 🗂️ Descripción del conjunto de datos
-
+## 🗂️ Descripción del conjunto de datos
 - **Total de registros:** 51.290 registros
 - **Año:** 2014
 - **Columnas principales:** 
@@ -33,15 +30,13 @@ Analizar las ventas realizadas por un supermercado con presencia global durante 
   - Prioridad Envio
 - **Fuente:** Curso: Experto en Análisis y Visualización de Datos - Udemy
 
-## 3. 🧹 Limpieza y preparación de los datos
-
+## 🧹 Limpieza y preparación de los datos
 - Se detectaron fechas mal formateadas y fueron convertidas al formato `DD/MM/AAAA`
 - Se aplicaron fórmulas para validar tipos de datos y corregir errores en fechas
 - Se normalizó el formato numérico en las columnas requeridas
 - Se realizó la creación de columnas a partir de registros sin valor
 
-## 4. 📈 Métricas analizadas
-
+## 📈 Métricas analizadas
 1. **Clientes únicos**
 2. **Ticket promedio**
 3. **Total facturado**
@@ -54,8 +49,7 @@ Analizar las ventas realizadas por un supermercado con presencia global durante 
 10. **Ventas por cada método de envio**
 11. **Ventas por cada segmento**
 
-## 5. 🧮 Herramientas y funciones utilizadas
-
+## 🧮 Herramientas y funciones utilizadas
 - **Fórmulas de Excel:**
   - `SUM()`
   - `COUNT()`
